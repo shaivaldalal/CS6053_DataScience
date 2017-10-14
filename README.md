@@ -1,4 +1,4 @@
-# Author: Shaival Dalal
+* Author: Shaival Dalal
 * Course: Foundations of Data Science
 * Code: CS6053
 
